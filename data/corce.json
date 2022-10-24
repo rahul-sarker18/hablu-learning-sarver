@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "JAVA" , "img": "" ,"title": "" , "reting": "", "price":""},
+  { "id": 2, "name": "C++", "img": "" ,"title": "" , "reting": "", "price":"" },
+  { "id": 3, "name": "REACT", "img": "" ,"title": "" , "reting": "", "price":"" },
+  { "id": 4, "name": "NODE-JS", "img": "" ,"title": "" , "reting": "", "price":"" },
+  { "id": 5, "name": "PITHON", "img": "" ,"title": "" , "reting": "", "price":"" },
+  { "id": 6, "name": "MASIN LERNING", "img": "" ,"title": "" , "reting": "", "price":"" },
+  { "id": 7, "name": "MATH" , "img": "" ,"title": "" , "reting": "", "price":""},
+  { "id": 8, "name": "ENGLISH", "img": "" ,"title": "" , "reting": "", "price":"" },
+  { "id": 9, "name": "ICT", "img": "" ,"title": "" , "reting": "", "price":"" }
+]

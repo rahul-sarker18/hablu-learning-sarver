@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "JAVA" },
+  { "id": 2, "name": "C++" },
+  { "id": 3, "name": "REACT" },
+  { "id": 4, "name": "NODE-JS" },
+  { "id": 5, "name": "PITHON" },
+  { "id": 6, "name": "MASIN LERNING" },
+  { "id": 7, "name": "MATH" },
+  { "id": 8, "name": "ENGLISH" },
+  { "id": 9, "name": "ICT" }
+]
