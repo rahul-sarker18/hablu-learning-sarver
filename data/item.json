@@ -1,11 +1,11 @@
 [
-  { "id": 1, "name": "JAVA" },
-  { "id": 2, "name": "C++" },
-  { "id": 3, "name": "REACT" },
-  { "id": 4, "name": "NODE-JS" },
-  { "id": 5, "name": "PITHON" },
-  { "id": 6, "name": "MASIN LERNING" },
-  { "id": 7, "name": "MATH" },
-  { "id": 8, "name": "ENGLISH" },
-  { "id": 9, "name": "ICT" }
+  { "id": 1, "name": "JAVA" , "img": "https://i.ibb.co/H44P7Nb/java.png" },
+  { "id": 2, "name": "C++" , "img": "https://i.ibb.co/9q21tFN/c.jpg" },
+  { "id": 3, "name": "REACT" , "img": "https://i.ibb.co/KWdzkhF/react.png" },
+  { "id": 4, "name": "NODE-JS", "img": "https://i.ibb.co/g96B5cb/node.jpg"  },
+  { "id": 5, "name": "PYTHON" , "img":"https://i.ibb.co/fNMn8qH/python.jpg"},
+  { "id": 6, "name": "MACHINE LEARNING", "img": "https://i.ibb.co/rbQRrx2/machine.jpg" },
+  { "id": 7, "name": "MATH" , "img": "https://i.ibb.co/60nPgFm/math.jpg" },
+  { "id": 8, "name": "ENGLISH", "img": "https://i.ibb.co/Jt2mYkD/english.jpg"  },
+  { "id": 9, "name": "ICT", "img": "https://i.ibb.co/jDtxy68/ict.jpg"  }
 ]
