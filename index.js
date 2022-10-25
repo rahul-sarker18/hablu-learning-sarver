@@ -19,6 +19,9 @@ app.get('/items', (req, res) => {
 
 app.get('/item/:id' , (req, res)=>{
     const id = req.params.id;
+    if(id== 10){
+        res.send(corce)
+    }
     const oneprodect = corce.find(p => p.id == id);
     res.send(oneprodect)
 })
